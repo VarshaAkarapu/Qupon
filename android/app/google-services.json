@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "881838567349",
+    "project_id": "qupon-6bebd",
+    "storage_bucket": "qupon-6bebd.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:881838567349:android:7cc702f524b7858804f3fc",
+        "android_client_info": {
+          "package_name": "com.qupon"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCVrHEnMSGTdgLoxS5U8jRvMpGY9VOSe1Q"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
